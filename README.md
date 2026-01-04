@@ -1,7 +1,7 @@
 <h1 align="center">Urvashi Vankar</h1>
 
 <p align="center">
-<b>AI / Data Analyst • Machine Learning Enthusiast • Automation Builder</b><br/>
+<b>AI / Computer Science Engineer | AI & Data Analytics | Full-Stack Systems | Project Coordination</b><br/>
 Computer Science Engineering Student @ Parul University
 </p>
 
