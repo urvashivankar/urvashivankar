@@ -38,7 +38,7 @@ I enjoy working at the intersection of:
 **Programming**  
 Python | SQL | JavaScript | HTML | CSS  
 
-**AI / ML**  
+**AI / Machine Learning**  
 TensorFlow | Keras | Scikit-learn | CNNs | NLP | Generative AI | LLMs  
 
 **Data & Analytics**  
@@ -52,6 +52,18 @@ MongoDB | PostgreSQL | MySQL
 
 **Automation & Tools**  
 n8n | Make.com | Git | GitHub | API Integration  
+
+---
+
+## 🤝 Soft Skills
+
+Event Coordination & Team Management •  
+Clear Communication & Presentation •  
+Leadership & Ownership •  
+Problem Solving & Decision Making •  
+Time Management & Adaptability
+
+
 
 ---
 
@@ -108,11 +120,16 @@ An intelligent automation system that collects, summarizes, and delivers daily A
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- 📧 Email: **urvashiparmar1603@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/urvashi-vankar**  
-- 🐙 GitHub: **github.com/urvashivankar**
+- 📧 **Email:** urvashiparmar1603@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/urvashi-vankar-5229bb272/  
+- 🐙 **GitHub:** https://github.com/urvashivankar  
+- 𝕏 **X (Twitter):** https://x.com/Urvashi16032005  
+- 📸 **Instagram:** https://www.instagram.com/_urvashiii.05  
+
+---
+
 
 ---
 
