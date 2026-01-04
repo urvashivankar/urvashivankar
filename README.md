@@ -1,105 +1,121 @@
-👋 Hey, I'm Urvashi Vankar  
-🎓 Computer Science Engineering Student @ Parul University  
-💡 Passionate about building intelligent, data-driven systems using AI, Machine Learning & Full-Stack Development  
+<h1 align="center">Urvashi Vankar</h1>
+
+<p align="center">
+<b>AI / Data Analyst • Machine Learning Enthusiast • Automation Builder</b><br/>
+Computer Science Engineering Student @ Parul University
+</p>
+
+<p align="center">
+Building practical AI systems that solve real-world problems using data, automation, and intelligence.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 Who Am I?
 
-🤖 AI & Machine Learning Enthusiast | Full-Stack Developer | Automation Builder  
-🧠 Hands-on experience in Machine Learning, Deep Learning (CNNs) & Generative AI  
-📊 Strong background in Data Analysis & Visualization (Power BI, Tableau)  
-⚙️ Experienced in AI Agents, Workflow Automation (n8n, Make.com) & API Integration  
-🌱 Currently exploring MLOps, Advanced Deep Learning & Scalable AI Systems  
+I am a Computer Science Engineering student with strong interest in **AI, Machine Learning, Data Analytics, and Automation**.  
+My work focuses on turning raw data and ideas into **useful, scalable, and real-world solutions**.
+
+I enjoy working at the intersection of:
+- Artificial Intelligence
+- Data-driven decision making
+- Workflow automation
+- Full-stack development
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 My Core Focus Areas
 
-### 💻 Languages
+- **AI & Machine Learning** – CNNs, NLP, Generative AI, LLM-based systems  
+- **Data Analytics** – dashboards, insights, business storytelling  
+- **Automation** – AI agents, n8n workflows, productivity systems  
+- **Backend & APIs** – FastAPI, Flask, REST-based services  
+
+---
+
+## 🧠 Technical Skills Snapshot
+
+**Programming**  
 Python | SQL | JavaScript | HTML | CSS  
 
-### 🌐 Frameworks & Libraries
-React.js | Node.js | Express.js | FastAPI | Flask | REST APIs  
+**AI / ML**  
+TensorFlow | Keras | Scikit-learn | CNNs | NLP | Generative AI | LLMs  
 
-### 🤖 AI & Machine Learning
-TensorFlow | Scikit-learn | Keras | CNNs | NLP | Generative AI | LLMs  
+**Data & Analytics**  
+Pandas | NumPy | Power BI | Tableau | Matplotlib  
 
-### 📊 Data & Visualization
-Pandas | NumPy | Matplotlib | Power BI | Tableau  
+**Web & APIs**  
+React.js | Node.js | Express.js | FastAPI | Flask  
 
-### 🗄️ Databases
+**Databases**  
 MongoDB | PostgreSQL | MySQL  
 
-### ☁️ Cloud & Deployment
-AWS | IBM Cloud | Streamlit | Vercel | Git | GitHub  
-
-### ⚙️ Automation & AI Agents
-n8n | Make.com | Workflow Automation | Prompt Engineering  
+**Automation & Tools**  
+n8n | Make.com | Git | GitHub | API Integration  
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-### 🌊 Aqua Guardian (AI + Blockchain Civic-Tech Platform)
-- AI-powered platform for real-time water pollution reporting  
-- ML-based issue classification with blockchain-backed verification  
-- Secure, transparent & tamper-proof citizen reporting system  
+### 🌊 Aqua Guardian — AI for Environmental Monitoring
+An AI-powered civic-tech platform designed to report and analyze water pollution issues with transparency.
 
-**Tech:** Python, Machine Learning, Blockchain APIs, FastAPI  
+- AI-based issue classification  
+- Real-world civic problem focus  
+- Designed for scalability and public impact  
 
----
-
-### 📈 Amazon Sales Analytics Dashboard
-- Interactive Power BI dashboard for sales & customer insights  
-- Implemented DAX KPIs and visual storytelling  
-
-**Tech:** Power BI, DAX  
+**Tech Used:** Python, ML Models, FastAPI, Blockchain APIs  
 
 ---
 
-### 📰 Daily AI News & Productivity Agent
-- AI automation that aggregates global & tech news  
-- Generates daily summaries and sends scheduled emails  
-- Integrated Google Calendar & Gmail APIs  
+### 📊 Amazon Sales Analytics
+A business intelligence project focused on sales performance and customer trends.
 
-**Tech:** n8n, LLMs, RSS, Google APIs  
+- Interactive dashboards  
+- KPI tracking using DAX  
+- Actionable business insights  
 
----
-
-### 🧠 Brain Tumor Detection (CNN – Deep Learning)
-- MRI-based brain tumor classifier with ~95% accuracy  
-- Used data augmentation & transfer learning  
-
-**Tech:** TensorFlow, CNN, Deep Learning  
+**Tech Used:** Power BI, Data Analytics  
 
 ---
 
-## 📜 Certifications
+### 📰 Daily AI News Automation
+An intelligent automation system that collects, summarizes, and delivers daily AI & tech news.
+
+- Automated data aggregation  
+- AI-generated summaries  
+- Productivity-focused design  
+
+**Tech Used:** n8n, LLMs, Google APIs  
+
+---
+
+## 🎓 Certifications & Learning
 
 - IBM – Python for Data Science  
-- IBM – Getting Started with AI  
 - IBM – Large Language Models  
+- AWS Academy – Cloud Foundations  
 - Deloitte (Forage) – Data Analytics Virtual Internship  
-- NPTEL (IIT) – Computer Networks, Theory of Computation  
-- AWS Academy – Graduate Cloud Foundations  
-- Edunet Foundation – Green Skills & Sustainability  
-- CII & Young Indians – Event Coordinator  
-- PU DAO – Coordinator & Community Member  
+- NPTEL (IIT) – Computer Networks & Theory of Computation  
 
 ---
 
-## 📬 Let’s Connect
+## 🌱 Currently Learning
 
-📧 Email: urvashiparmar1603@gmail.com  
-💼 LinkedIn: linkedin.com/in/urvashi-vankar  
-🐙 GitHub: github.com/urvashivankar  
-🌐 Portfolio: urvashi.Portfolio  
+- MLOps & model deployment  
+- Advanced deep learning techniques  
+- Scalable AI system design  
 
 ---
 
-## 💡 Fun Fact
+## 📫 Connect With Me
 
-⚡ I love combining AI, automation, and real-world problem-solving to build impactful tech solutions that actually matter.
+- 📧 Email: **urvashiparmar1603@gmail.com**  
+- 💼 LinkedIn: **linkedin.com/in/urvashi-vankar**  
+- 🐙 GitHub: **github.com/urvashivankar**
 
-✨ *“Learn deeply. Build boldly. Improve constantly.”*
+---
+
+<p align="center">
+<i>“I believe technology should be intelligent, practical, and impactful.”</i>
+</p>
