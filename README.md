@@ -48,7 +48,7 @@ Pandas | NumPy | Power BI | Tableau | Matplotlib
 React.js | Node.js | Express.js | FastAPI | Flask  
 
 **Databases**  
-MongoDB | PostgreSQL | MySQL  
+MongoDB | PostgreSQL | MySQL | Supabase | Firebase 
 
 **Automation & Tools**  
 n8n | Make.com | Git | GitHub | API Integration  
