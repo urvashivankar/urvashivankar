@@ -24,67 +24,16 @@ I am a **Computer Science Engineering student** passionate about building
 - 🌐 Full-Stack Development
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql,html,css" />
-</p>
-
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-- CNNs • NLP • Generative AI  
-- LLMs • Vision Models • AI Pipelines  
-
+## 🧠 Technical Skills Snapshot 
+**Programming** Python | SQL | JavaScript | HTML | CSS
+**AI / Machine Learning** TensorFlow | Keras | Scikit-learn | CNNs | NLP | Generative AI | LLMs 
+**Data & Analytics** Pandas | NumPy | Power BI | Tableau | Matplotlib 
+**Web & APIs** React.js | Node.js | Express.js | FastAPI | Flask 
+**Databases** MongoDB | PostgreSQL | MySQL | Supabase | Firebase 
+**Automation & Tools** n8n | Make.com | Git | GitHub | API Integration
 ---
 
-### 📊 Data Analytics & BI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas • NumPy  
-- Power BI • Tableau  
-- Data Visualization & Storytelling  
-
----
-
-### 🌐 Web & API Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
-</p>
-
-- REST APIs  
-- Backend Systems  
-- Scalable Architectures  
-
----
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
-</p>
-
-- Supabase • Firebase  
-- SQL & NoSQL  
-
----
-
-### ⚙️ Automation & Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-- n8n • Make.com  
-- API Integrations  
-- Workflow Automation  
-
----
-
+ 
 ## 🤝 Soft Skills
 
 ✔ Leadership & Ownership  
