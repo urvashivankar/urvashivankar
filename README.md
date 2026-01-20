@@ -24,13 +24,69 @@ I am a **Computer Science Engineering student** passionate about building
 - 🌐 Full-Stack Development
 
 ---
-## 🧠 Technical Skills Snapshot 
-**Programming** Python | SQL | JavaScript | HTML | CSS
-**AI / Machine Learning** TensorFlow | Keras | Scikit-learn | CNNs | NLP | Generative AI | LLMs 
-**Data & Analytics** Pandas | NumPy | Power BI | Tableau | Matplotlib 
-**Web & APIs** React.js | Node.js | Express.js | FastAPI | Flask 
-**Databases** MongoDB | PostgreSQL | MySQL | Supabase | Firebase 
-**Automation & Tools** n8n | Make.com | Git | GitHub | API Integration
+
+## 🧠 Technical Skills
+
+### Programming Languages
+- Python  
+- SQL  
+- JavaScript  
+- HTML  
+- CSS  
+
+---
+
+### Artificial Intelligence & Machine Learning
+- Machine Learning Fundamentals  
+- Deep Learning (CNNs)  
+- Natural Language Processing (NLP)  
+- Generative AI & Large Language Models (LLMs)  
+- Computer Vision  
+- AI Model Training & Pipelines  
+
+**Libraries & Frameworks:**  
+TensorFlow, Keras, Scikit-learn  
+
+---
+
+### Data Analytics & Business Intelligence
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Insight Generation  
+- Business Reporting & Storytelling  
+
+**Tools:**  
+Pandas, NumPy, Power BI, Tableau, Matplotlib  
+
+---
+
+### Web Development & APIs
+- RESTful API Design & Development  
+- Backend Development & API Integration  
+- Frontend Development  
+- Scalable Application Architecture  
+
+**Frameworks & Technologies:**  
+React.js, Node.js, Express.js, FastAPI, Flask  
+
+---
+
+### Databases & Cloud Platforms
+- PostgreSQL, MySQL  
+- MongoDB  
+- Supabase, Firebase  
+- SQL & NoSQL Database Design  
+
+---
+
+### Automation & Developer Tools
+- Workflow Automation  
+- API Integration & Data Pipelines  
+- Version Control & Collaboration  
+
+**Tools:**  
+n8n, Make.com, Git, GitHub  
+
 ---
 
  
