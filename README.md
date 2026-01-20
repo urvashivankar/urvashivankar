@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Urvashi Vankar</h1>
+<h1 align="center"> Hi, I'm Urvashi Vankar</h1>
 
 <p align="center">
   <b>AI & ML Engineer • Data Analyst • Full-Stack Developer</b><br/>
@@ -11,21 +11,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a **Computer Science Engineering student** passionate about building  
 **practical AI systems, data analytics solutions, and scalable web platforms**.
 
-💡 I focus on transforming **ideas → data → intelligence → impact**
+ I focus on transforming **ideas → data → intelligence → impact**
 
-- 🤖 AI & Machine Learning
-- 📊 Data Analytics & BI
-- ⚙️ Automation & AI Agents
-- 🌐 Full-Stack Development
+-  AI & Machine Learning
+-  Data Analytics & BI
+-  Automation & AI Agents
+-  Full-Stack Development
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 - Python  
@@ -90,19 +90,19 @@ n8n, Make.com, Git, GitHub
 ---
 
  
-## 🤝 Soft Skills
+##  Soft Skills
 
-✔ Leadership & Ownership  
-✔ Event Coordination  
-✔ Clear Communication  
-✔ Problem Solving  
-✔ Time Management  
+ Leadership & Ownership  
+ Event Coordination  
+ Clear Communication  
+ Problem Solving  
+ Time Management  
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌊 Aqua Guardian – AI-Powered Water Pollution Monitoring
+###  Aqua Guardian – AI-Powered Water Pollution Monitoring
 🔗 **GovTech + AI for Environmental Impact**
 
 - AI-based pollution verification  
@@ -116,8 +116,8 @@ n8n, Make.com, Git, GitHub
 
 ---
 
-### 📊 Amazon Sales Analytics
-📈 Business Intelligence & Insights Platform
+###  Amazon Sales Analytics
+  Business Intelligence & Insights Platform
 
 - KPI dashboards  
 - DAX calculations  
@@ -128,8 +128,8 @@ n8n, Make.com, Git, GitHub
 
 ---
 
-### 📰 Daily AI News Automation
-⚡ Fully automated AI news delivery system
+###  Daily AI News Automation
+ Fully automated AI news delivery system
 
 - News aggregation  
 - LLM-based summarization  
@@ -140,7 +140,7 @@ n8n, Make.com, Git, GitHub
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 🏅 IBM – Python for Data Science  
 🏅 IBM – Large Language Models  
@@ -150,7 +150,7 @@ n8n, Make.com, Git, GitHub
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - MLOps & Model Deployment  
 - Advanced Deep Learning  
@@ -158,7 +158,7 @@ n8n, Make.com, Git, GitHub
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:urvashiparmar1603@gmail.com">
