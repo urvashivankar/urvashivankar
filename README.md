@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>AI & ML Engineer • Data Analyst • Full-Stack Developer</b><br/>
-  🎓 Computer Science Engineering @ Parul University
+  🎓 Computer Science Engineering @ Parul University<br/>
+  🌐 <b>Live Portfolio: <a href="https://urvashi-portfolio-teal.vercel.app/">urvashi-portfolio-teal.vercel.app</a></b>
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@ I am a **Computer Science Engineering student** passionate about building
  I focus on transforming **ideas → data → intelligence → impact**
 
 -  AI & Machine Learning
--  Data Analytics & BI
+>-  Data Analytics & BI
 -  Automation & AI Agents
 -  Full-Stack Development
 
