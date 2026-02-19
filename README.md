@@ -113,7 +113,7 @@ n8n, Make.com, Git, GitHub
 **Tech Stack:**  
 `FastAPI` `React` `Supabase` `Llama Vision` `AI Inference`
 
-🔗 Repo: https://github.com/urvashivankar/Aqua_Guardian
+
 
 ---
 
