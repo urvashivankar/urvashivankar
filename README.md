@@ -19,10 +19,10 @@ I am a **Computer Science Engineering student** passionate about building
 
  I focus on transforming **ideas → data → intelligence → impact**
 
--  AI & Machine Learning
->-  Data Analytics & BI
--  Automation & AI Agents
 -  Full-Stack Development
+-  AI & ML
+-  Data Analytics & BI
+
 
 ---
 
