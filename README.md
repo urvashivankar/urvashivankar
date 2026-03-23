@@ -137,20 +137,6 @@ A high-accuracy tool (Chrome extension ready) for identifying misinformation in 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Urvashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=urvashivankar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urvashivankar&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=urvashivankar&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 ### 🎓 **Education**
