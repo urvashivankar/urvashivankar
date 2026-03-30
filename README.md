@@ -130,8 +130,7 @@ current_focus = {
 - LinkedIn: [linkedin.com/in/urvashi-vankar-5229bb272](https://www.linkedin.com/in/urvashi-vankar-5229bb272/)
 - GitHub: [github.com/urvashivankar](https://github.com/urvashivankar)
 - Portfolio: [urvashi-portfolio-teal.vercel.app](https://urvashi-portfolio-teal.vercel.app/)
-
----
+- Phone: +91 9510972650
 
 
 ---
@@ -145,12 +144,24 @@ current_focus = {
 
 ---
 
+##  Let's Build Something Meaningful
+
+I'm always open to collaborating on AI-driven products, full-stack applications, and impactful tech solutions.
+
+ Feel free to reach out for:
+- Internship opportunities
+- Collaboration on AI/ML projects
+- Full-stack development work
+
+---
+
 <div align="center">
 
-### Think. Build. Scale. Ship.
+###  Think. Build. Scale. Ship.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=urvashivankar&color=blueviolet&style=flat-square)
 
-**Thanks for visiting my profile. Let's build intelligent products that create real impact.**
+**"Building intelligent systems that solve real-world problems."**
 
 </div>
+
