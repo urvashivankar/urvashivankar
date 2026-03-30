@@ -27,7 +27,6 @@ const urvashi = {
     "RAG and intelligent pipelines",
     "Scalable system design"
   ],
-  mission: "Building intelligent products that solve real-world problems with strong engineering fundamentals."
 };
 ```
 
@@ -53,7 +52,6 @@ const urvashi = {
 ### AI/ML
 
 ![LLMs](https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-222222?style=flat-square&logo=databricks&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -82,95 +80,24 @@ const urvashi = {
 - Integrating backend services and optimizing workflows to improve product reliability and execution efficiency.
 
 ### Python Developer Intern | KS Technologies
-*May 2022 - Oct 2022 | Vadodara | On-site*
+*May 2022 - Aug 2022 | Vadodara | On-site*
 
 - Developed backend features using Python and integrated REST APIs for business application workflows.
 - Worked with databases and improved backend performance through better service logic and data handling.
 
 ### PHP Web Developer Intern | Arth Technology
-*May 2022 - Aug 2022 | Vadodara | On-site*
+*March 2022 - April 2022 | Vadodara | On-site*
 
 - Built dynamic web pages using PHP and MySQL for database-driven applications.
 - Implemented backend logic and handled core database operations supporting production workflows.
 
-## Featured Projects
 
-### Aqua Guardian | AI Civic-Tech Platform
-**Stack:** `React.js` `FastAPI` `Supabase` `PostgreSQL` `AI Validation`
-
-**Problem**
-- Water pollution reporting often depends on slow manual verification, which delays response time and creates operational overhead.
-
-**Solution**
-- Architected an AI-powered civic-tech platform that validates pollution reports in real time and supports faster decision-making for report review.
-
-**Architecture**
-- React frontend captures reports and supports responsive user interaction.
-- FastAPI backend handles validation workflows, business logic, and service integration.
-- AI validation layer evaluates submitted evidence and helps classify report quality.
-- Supabase and PostgreSQL support real-time updates, persistence, and operational workflow management.
-
-**System Design Thinking**
-- Designed the full user-to-system data flow from frontend submission to API validation to AI processing to final response.
-- Considered real-world constraints including review latency, validation accuracy, and scale as report volume increases.
-
-**Impact**
-- Reduced manual verification effort by 70 percent.
-- Selected among the Top 10 projects in the Gujarat Showcase Event.
-
-### Fake News Detection Chrome Extension
-**Stack:** `JavaScript` `FastAPI` `Scikit-learn` `NLP`
-
-**Problem**
-- Users need fast credibility checks while reading digital content, but most fact-checking flows are too slow or disconnected from the browsing experience.
-
-**Solution**
-- Engineered a Chrome extension for real-time fake news detection with a backend prediction service for live classification.
-
-**Architecture**
-- Browser extension captures article text from the user workflow.
-- FastAPI backend processes requests and routes input through the NLP classification pipeline.
-- Scikit-learn model returns live predictions for immediate frontend feedback.
-
-**System Design Thinking**
-- Optimized for responsiveness so predictions can be delivered quickly in a real browsing context.
-- Balanced model usability and inference speed to make the product practical for end users.
-
-**Impact**
-- Built a production-style AI workflow that connects frontend interaction with live model inference.
-- Demonstrated applied NLP in a user-facing product environment.
-
-### Roshni Enterprise | Full Stack MERN Application
-**Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
-
-**Problem**
-- Business workflows needed a centralized digital platform for operations, data management, and user access control.
-
-**Solution**
-- Developed a full-stack enterprise application using the MERN stack to streamline business workflows and improve operational visibility.
-
-**Architecture**
-- React frontend powers dynamic interfaces and responsive user experiences.
-- Node.js and Express backend provide scalable APIs, authentication, and CRUD workflows.
-- MongoDB supports application data storage and flexible operational modeling.
-
-**System Design Thinking**
-- Structured the backend for scalability and maintainability as more features and workflows are introduced.
-- Focused on clean API design, responsive performance, and reliable state management across devices.
-
-**Impact**
-- Delivered a scalable business application with authentication, CRUD operations, and responsive UI.
-- Built a maintainable base for future enterprise feature expansion.
 
 ## Education
 
 - **Parul University** - B.Tech in Computer Science and Engineering (2023 - 2026) | CGPA: 8.0
-- **Parul University** - Diploma in Computer Science and Engineering (2020 - 2023) | CGPA: 8.0
 
-## Certifications
 
-- IBM - Web Development with Python (2024)
-- IBM - Getting Started with AI (2024)
 
 ## Current Focus
 
@@ -189,3 +116,27 @@ current_focus = {
 - LinkedIn: [linkedin.com/in/urvashi-vankar-5229bb272](https://www.linkedin.com/in/urvashi-vankar-5229bb272/)
 - GitHub: [github.com/urvashivankar](https://github.com/urvashivankar)
 - Portfolio: [urvashi-portfolio-teal.vercel.app](https://urvashi-portfolio-teal.vercel.app/)
+
+---
+
+
+---
+
+## What I Do Best
+
+- Building end-to-end AI products from frontend experience to backend intelligence
+- Designing scalable API and data flows for real-world product usage
+- Integrating LLMs, NLP workflows, and intelligent automation into practical applications
+- Shipping maintainable full-stack systems with strong product and performance focus
+
+---
+
+<div align="center">
+
+### Think. Build. Scale. Ship.
+
+![Profile Views](https://komarev.com/ghpvc/?username=urvashivankar&color=blueviolet&style=flat-square)
+
+**Thanks for visiting my profile. Let's build intelligent products that create real impact.**
+
+</div>
