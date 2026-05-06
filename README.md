@@ -29,26 +29,23 @@ Building scalable AI-powered products from frontend experience to intelligent ba
 
 ---
 
-#  About Me
-
-```ts
 const urvashi = {
   role: "Full Stack AI Developer",
   location: "Vadodara, Gujarat, India",
 
-  focus: [
+  expertise: [
     "AI-powered product development",
     "Full-stack engineering",
     "LLM & NLP integrations",
     "RAG pipelines",
-    "Scalable backend systems",
+    "Backend architecture",
     "System design"
   ],
 
   currentlyBuilding: [
     "AI products",
-    "Intelligent automation systems",
     "Scalable APIs",
+    "Intelligent automation systems",
     "Production-ready applications"
   ]
 };
