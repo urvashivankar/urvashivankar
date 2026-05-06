@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient"/>
 
-<h1 align="center">Hi 👋, I'm Urvashi Vankar</h1>
+<h1 align="center">Hi , I'm Urvashi Vankar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+AI+Developer;Building+AI-Powered+Products;React+%7C+FastAPI+%7C+LLMs+%7C+RAG;System+Design+%26+Scalable+Architecture;Frontend+to+Intelligent+Backend+Systems" />
@@ -40,7 +40,7 @@ Building scalable AI-powered products from frontend experience to intelligent ba
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```ts
 const urvashi = {
@@ -67,7 +67,7 @@ const urvashi = {
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 ## 🖥 Frontend
 
@@ -139,7 +139,7 @@ const urvashi = {
 
 ---
 
-# 🧠 Engineering Focus
+#  Engineering Focus
 
 - Building AI-powered full-stack products
 - Scalable backend architecture
@@ -150,34 +150,6 @@ const urvashi = {
 
 ---
 
-# 🚀 Featured Projects
-
-## 🍽 Menova — AI Smart Restaurant Platform
-
-- AI-powered restaurant ordering experience
-- Smart digital menu system
-- Full-stack scalable architecture
-- Product-focused UI/UX
-
----
-
-## 📄 AI Resume Analyzer
-
-- Resume vs Job Description matching
-- ATS optimization analysis
-- AI-generated improvement suggestions
-- LLM-powered scoring system
-
----
-
-## 🎤 AI Interview Assistant
-
-- AI-generated interview questions
-- Technical interview preparation
-- Real-time feedback system
-- Backend AI integration workflows
-
----
 
 # 💼 Experience
 
@@ -214,7 +186,7 @@ const urvashi = {
 
 # 🎓 Education
 
-## 🎓 Parul University
+## Parul University
 
 B.Tech in Computer Science & Engineering  
 CGPA: 8.0  
@@ -222,39 +194,9 @@ CGPA: 8.0
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=urvashivankar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashivankar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=urvashivankar&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urvashivankar&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 What I Do Best
+#  What I Do Best
 
 ✅ Building AI-powered full-stack products  
 ✅ Designing scalable backend systems  
@@ -265,7 +207,7 @@ CGPA: 8.0
 
 ---
 
-# 🤝 Let's Collaborate
+#  Let's Collaborate
 
 I'm always open to:
 
@@ -277,7 +219,7 @@ I'm always open to:
 
 ---
 
-# 📫 Reach Me
+#  Reach Me
 
 📧 Email: urvashiparmar1603@gmail.com
 
@@ -298,7 +240,7 @@ https://urvashi-portfolio-teal.vercel.app/
 
 <img src="https://komarev.com/ghpvc/?username=urvashivankar&color=blueviolet&style=for-the-badge"/>
 
-### 🚀 Building intelligent systems that solve real-world problems.
+###  Building intelligent systems that solve real-world problems.
 
 </div>
 
