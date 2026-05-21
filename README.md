@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Urvashi Vankar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+AI+Developer;Building+AI-Powered+Products;React+%7C+FastAPI+%7C+LLMs+%7C+RAG;System+Design+%26+Scalable+Architecture;Frontend+to+Intelligent+Backend+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&duration=3000&pause=1000&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+Express+%7C+REST+APIs;Building+Scalable+Web+Applications;Exploring+AI+and+Modern+Tech" />
 </p>
 
 <p align="center">
