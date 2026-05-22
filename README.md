@@ -1,13 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Urvashi%20Vankar&fontSize=42&fontAlignY=35&animation=fadeIn"/>
 
-<h1 align="center">Hi , I'm Urvashi Vankar</h1>
 
 <h3 align="center">
 Full Stack Developer • AI Engineer • Backend Enthusiast
 </h3>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1400&lines=Full+Stack+Software+Developer;Frontend+%7C+Backend+%7C+Database+Engineering;React+%7C+Next.js+%7C+TailwindCSS;Python+%7C+FastAPI+%7C+Django+%7C+Node.js;MongoDB+%7C+PostgreSQL+%7C+MySQL;REST+APIs+%7C+System+Design+%7C+Scalable+Architecture;Building+AI-Powered+Products+and+Modern+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3500&pause=1000&color=ADD8E6&center=true&vCenter=true&width=1200&lines=Hello+World!+;I'm+Urvashi+Vankar;21+Years+Old;From+Gujarat,+India+🇮🇳;Full+Stack+Developer+%7C+AI+Engineer;Passionate+About+Building+Scalable+Applications;FastAPI+%7C+Django+%7C+React+%7C+Next.js;Machine+Learning+%7C+LLMs+%7C+Data+Analytics;Always+Learning+New+Technologies;Welcome+To+My+GitHub+Profile+" />
 </p>
 
 ---
@@ -19,37 +20,10 @@ const urvashi = {
   role: "Full Stack Developer",
   specialization: "AI-Powered Web Applications",
 
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "FastAPI",
-    "Django"
-  ],
-
-  databases: [
-    "MongoDB",
-    "PostgreSQL",
-    "MySQL"
-  ],
-
-  ai_stack: [
-    "LLMs",
-    "RAG",
-    "NLP",
-    "OpenAI APIs"
-  ],
-
   currentlyLearning: [
     "System Design",
     "Scalable Architecture",
-    "Cloud & DevOps"
+    "GEN AI"
   ]
 };
 ```
